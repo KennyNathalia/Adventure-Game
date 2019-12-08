@@ -1,0 +1,14 @@
+Fantasy escape script
+------------------------
+
+Verhaal:
+Je was in het bos zoals altijd. Je houd van de natuur.
+Je mocht nooit te ver in het bos lopen. Dat zeiden je ouders altijd.
+Toch liep je door.
+---------------------------------------------------------------------
+
+Level 1:
+Je bent uit het bos gelopen en het bos is er niet meer...
+Je wilt vragen waar je bent?
+Wat ga je doen?
+(Er is een optie om naar achter te gaan. Die is fout)
